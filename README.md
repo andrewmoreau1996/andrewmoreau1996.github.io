@@ -19,7 +19,7 @@ FontAwesome | 5.8.1 | Icons | https://fontawesome.com/icons
 Simple Line Icons | ? | More Icons | https://iconify.design/icon-sets/simple-line-icons/
 
 
-##TODO
+## TODO
 - Convert service cards to be dynamically generated
 
 - Convert to using a DB vs JSON file for data and develop admin page for changing them
