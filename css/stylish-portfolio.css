@@ -19,7 +19,7 @@ body {
 }
 
 .content-section {
-  padding-top: 7.5rem;
+  padding-top: 4rem;
   padding-bottom: 7.5rem;
 }
 
@@ -378,4 +378,13 @@ a:hover, a:focus, a:active {
 
 .semi-transparent{
   background:rgba(255,255,255,0.5);
+}
+
+
+.modal-dialog{
+    overflow-y: initial !important
+}
+.modal-body{
+    height: 70vh;
+    overflow-y: auto;
 }
