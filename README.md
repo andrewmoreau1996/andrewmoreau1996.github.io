@@ -7,7 +7,7 @@ Because I wanted to build this for anyone form entry-level to senior level devel
 A future version of this will include a similar file for the services cards and change all links to a a json file for quick adoption.  
 
 
-In the future I will be developing a DB branch tha leverages mysql and an administrator page. 
+In the future I will be developing a DB branch that leverages mysql and an administrator page. 
 
 
 ## Technologies
