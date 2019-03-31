@@ -237,7 +237,7 @@ h6 {
   position: relative;
   overflow: hidden;
   max-width: 530px;
-  margin: auto auto 1rem;
+  margin: auto auto 5rem;
 }
 
 .portfolio-item .caption {
@@ -374,4 +374,8 @@ a:hover, a:focus, a:active {
 
 .text-secondary {
   color: #ecb807 !important;
+}
+
+.semi-transparent{
+  background:rgba(255,255,255,0.5);
 }
