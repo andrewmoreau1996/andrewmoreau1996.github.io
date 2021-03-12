@@ -1,11 +1,11 @@
 var projects = [
     {
-        name: "Narwhal",
+        name: "Real Time Geo Network Tracker",
         img: "img/narwhal_sample.png",
-        alt: "sample image of narwhal project before official LM Development",
-        description: "On project Narwhal I am tasked with developing a near-real time network monitoring tool. This tool not only tracks connection health, but includes active location updates for Space Vehicles (SV), and near-real time weather overlays. I have had great success in taking our initial lag time of 10 seconds behind real-time to 2-3 seconds behind real-time.",
+        alt: "sample image of project",
+        description: "I worked to develop a near-real time network monitoring tool. This tool not only tracks connection health, but includes active location updates for Space Vehicles (SV), and near-real time weather overlays. I had great success in taking our initial lag time of 10 seconds behind real-time to 2-3 seconds behind real-time.",
         size: 2,
-        status: "in-progress with a completion date of June 2019"
+        status: "Completed May 2019"
     },
      {
          name: "SPARTA",
@@ -21,7 +21,7 @@ var projects = [
          alt: "TAFT landing page",
          description: "Tech Assurance Franchise Tools is an ongoing project for my father company to develop a new way for them to connect with their franchisees. Current franchise reporting tools on the market are outdated and over priced, so I  took on this project to help in developing a simple yet secure way for franchisees to complete reporting. The photo distorts the landing page so feel free to check out the current version on my test server at <a href='https://camsforspeed.com/franchise/'>camsforspeed.com/franchise/</a>. You can explore both roles as a franchisee or as corporate. <br/><br/> Franchisee credentials: username: franch  password: password <br/> Corporate credentials: username: franchise_company  password: password",
          size: 1,
-         status: "MVP released and new features in development"
+         status: "MVP released and new features continually development"
     },
      {
          name: "Tenant",
@@ -29,7 +29,7 @@ var projects = [
          alt: "Tenant app screen shots",
          description: "If you have recently been looking for a new apartment then you know just how horrible the current process is. Tenant is a multi platform tool that we hope will help ease the woes of apartment shopping and improve both tenant and landlord satisfaction levels. My role in the project is to develop the Android app and user management by leveraging Firebase.",
          size: 3,
-         status: "in-progress and aiming for an MVP release in September of 2019"
+         status: "in-progress"
     }
 ];
 
